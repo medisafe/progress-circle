@@ -1,7 +1,7 @@
 # progress-circle
 progress circle view
 
-![ProgressCircle](https://cloud.githubusercontent.com/assets/19874536/16151127/f225cf26-34a3-11e6-8f75-9d89624f4552.png)
+<img src="https://cloud.githubusercontent.com/assets/19874536/16151127/f225cf26-34a3-11e6-8f75-9d89624f4552.png" width="200 height="200"/>
 
 ##Usage
 
