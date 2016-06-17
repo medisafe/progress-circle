@@ -10,24 +10,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.tgd.libraries.views.progresscircle.MainActivity">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:text="Set random progress"
-        android:textSize="20sp"
-        android:textColor="@android:color/white"
-        android:gravity="center"
-        android:background="@color/colorPrimary"
-        android:layout_alignParentBottom="true"
-        tools:ignore="HardcodedText" />
-
     <com.tgd.libraries.views.progresscircle.ProgressCircle
-        android:id="@+id/circle_progress_indicator"
+        android:id="@+id/circle_progress"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="32dp"
-        android:layout_above="@+id/button"
         app:progressColor="@color/colorPrimary"
         app:textColor="@color/colorPrimary"
         app:outlineWidth="16dp"
