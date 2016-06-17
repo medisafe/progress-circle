@@ -1,8 +1,10 @@
-package com.tgd.libraries.views.progresscircle;
+package com.tgd.libraries.views.progresscircledemo;
 
 import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
+
+import com.tgd.libraries.views.progresscircle.ProgressCircle;
 
 import java.util.Random;
 

@@ -17,6 +17,7 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 
 /**
  * Created by Tomer on 19/05/2016.
+ *
  */
 public class ProgressCircle extends View {
 
