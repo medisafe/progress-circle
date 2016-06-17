@@ -2,6 +2,8 @@
 progress circle view
 
 <img src="https://cloud.githubusercontent.com/assets/19874536/16151127/f225cf26-34a3-11e6-8f75-9d89624f4552.png" width="150 height="150"/>
+<img src="https://cloud.githubusercontent.com/assets/19874536/16152166/2b0c9d7e-34a9-11e6-8899-c253f155d888.png" width="150 height="150"/>
+<img src="https://cloud.githubusercontent.com/assets/19874536/16152168/2d382d48-34a9-11e6-9ae6-e40c21106eba.png" width="150 height="150"/>
 
 ##Usage
 
